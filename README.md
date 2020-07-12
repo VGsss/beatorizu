@@ -8,7 +8,7 @@ Adoro Python e Programação Funcional. Atualmente estou estudando frontend e de
 
 O projeto da vez é um endless runner que começou na semana de imersão da Alura: [As aventuras de Erin]. Estou trabalhando com código e a Carolina, uma ilustradora muito incrível, está trabalhando com a arte. Você pode aconpanhar o trabalho dela no [Behance] e no [Instagram]
 
-![PLUS ULTRA!](my-test-academia-plus-ultra.png)
+![PLUS ULTRA!](https://raw.githubusercontent.com/beatorizu/beatorizu/master/my-test-academia-plus-ultra.png)
 
 [As aventuras de Erin]: https://bits-head-endless-runner.netlify.app
 [Behance]: https://www.behance.net/carolinafonseca2

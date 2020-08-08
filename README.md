@@ -6,7 +6,7 @@
 
 Adoro Python e Programação Funcional. Atualmente estou estudando frontend e desenvolvendo uns jogos bem legais com JavaScript :D
 
-O projeto da vez é um endless runner que começou na semana de imersão da Alura: [As aventuras de Erin]. Estou trabalhando com código e a Carolina, uma ilustradora muito incrível, está trabalhando com a arte. Você pode aconpanhar o trabalho dela no [Behance] e no [Instagram]
+O projeto da vez é um endless runner que começou na semana de imersão da Alura: [As aventuras de Erin]. Estou trabalhando com código e a Carolina, uma ilustradora muito incrível, está trabalhando com a arte. Você pode acompanhar o trabalho dela no [Behance] e no [Instagram]
 
 ![PLUS ULTRA!](https://raw.githubusercontent.com/beatorizu/beatorizu/master/my-test-academia-plus-ultra.png)
 
